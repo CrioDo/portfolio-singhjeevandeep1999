@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-singhjeevandeep1999/static/css/main.5db1380d.chunk.css",
+    "main.js": "/portfolio-singhjeevandeep1999/static/js/main.dea748b8.chunk.js",
+    "main.js.map": "/portfolio-singhjeevandeep1999/static/js/main.dea748b8.chunk.js.map",
+    "runtime-main.js": "/portfolio-singhjeevandeep1999/static/js/runtime-main.d030ef79.js",
+    "runtime-main.js.map": "/portfolio-singhjeevandeep1999/static/js/runtime-main.d030ef79.js.map",
+    "static/css/2.57ddf7ad.chunk.css": "/portfolio-singhjeevandeep1999/static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.dea4edc3.chunk.js": "/portfolio-singhjeevandeep1999/static/js/2.dea4edc3.chunk.js",
+    "static/js/2.dea4edc3.chunk.js.map": "/portfolio-singhjeevandeep1999/static/js/2.dea4edc3.chunk.js.map",
+    "index.html": "/portfolio-singhjeevandeep1999/index.html",
+    "precache-manifest.5fd8586ea3b2621fe4792d339464836a.js": "/portfolio-singhjeevandeep1999/precache-manifest.5fd8586ea3b2621fe4792d339464836a.js",
+    "service-worker.js": "/portfolio-singhjeevandeep1999/service-worker.js",
+    "static/css/2.57ddf7ad.chunk.css.map": "/portfolio-singhjeevandeep1999/static/css/2.57ddf7ad.chunk.css.map",
+    "static/css/main.5db1380d.chunk.css.map": "/portfolio-singhjeevandeep1999/static/css/main.5db1380d.chunk.css.map",
+    "static/js/2.dea4edc3.chunk.js.LICENSE.txt": "/portfolio-singhjeevandeep1999/static/js/2.dea4edc3.chunk.js.LICENSE.txt",
+    "static/media/crio-logo-white.svg": "/portfolio-singhjeevandeep1999/static/media/crio-logo-white.c9536e04.svg",
+    "static/media/crio-logo.svg": "/portfolio-singhjeevandeep1999/static/media/crio-logo.63be71d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d030ef79.js",
+    "static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.dea4edc3.chunk.js",
+    "static/css/main.5db1380d.chunk.css",
+    "static/js/main.dea748b8.chunk.js"
+  ]
+}
